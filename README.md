@@ -1,7 +1,7 @@
 # Turing Machine - 0<sup>2<sup>n</sup></sup>
 
 ## 
-Created a Turing Machine using YAML languange to decide the language 0<sup>2<sup>n</sup></sup>
+Created a Turing Machine using YAML language to decide the language 0<sup>2<sup>n</sup></sup>
 
 
 ### Template by  [Daniel Chahine](https://github.com/DanielChahine0)
