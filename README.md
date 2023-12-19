@@ -9,7 +9,7 @@ Created a Turing Machine using YAML languange to decide the language 0<sup>2<sup
 
 This Turing machine decides the language L(M)={0<sup>2<sup>n</sup></sup> | n≥0}
 
-The Machine could be viewd using [THIS LINK](https://turingmachine.io/?import-gist=c3b690296cab1e62886aba56402b0ea5):
+The Machine could be viewd using [THIS LINK](https://turingmachine.io/?import-gist=c3b690296cab1e62886aba56402b0ea5)
 
 ## The machine is split into 4 parts:
 > # Start & Accept
