@@ -11,7 +11,7 @@ This Turing machine decides the language L(M)={0<sup>2<sup>n</sup></sup> | n≥0
 
 The Machine could be viewd using [THIS LINK](https://turingmachine.io/?import-gist=c3b690296cab1e62886aba56402b0ea5)
 
-## The machine is split into 4 parts:
+## The machine is split into 3 parts:
 > # Start & Accept
 The machine start by crossing of the first 0 from the tape. If the tape doesn't start with 1, it dies and does not get accepted. If it has only one 0 then just accept immediatly
 ```
